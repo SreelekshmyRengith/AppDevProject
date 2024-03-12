@@ -1,0 +1,72 @@
+body {
+    background-image: url('https://research.umd.edu/sites/default/files/styles/optimized/public/2021-12/umd-overhead-view-campus.jpg?itok=WKoGltIQ');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;
+}
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: white;
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.social-buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-button {
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.social-button.instagram {
+    background-color: #8a3ab9;
+    color: #fff;
+}
+
+.social-button.discord {
+    background-color: #7289da;
+    color: #fff;
+}
+
+.social-button.slack {
+    background-color: #4a154b;
+    color: #fff;
+}
+        
+.heading1{
+    color: black;
+       }
